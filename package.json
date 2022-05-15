@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "insta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Tingu",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "instagram-web-api": "^2.2.2"
+  }
+}
